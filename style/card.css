@@ -102,7 +102,7 @@ h1 {
 @media (max-width: 700px) {
   .employee-card {
     width: 100vw;
-    height: 60vh;
+    height: 53vh;
     margin: 20px;
     display: flex;
     flex-direction: column;

@@ -112,4 +112,9 @@ h1 {
   .logo-image {
     height: 10vh;
   }
+  #head {
+    display: flex;
+    background-color: black;
+    height: 10vh;
+  }
 }

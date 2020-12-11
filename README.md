@@ -6,7 +6,7 @@ All data is been Fetched from a external source using Asynchronous Javascript Me
 
 It contains Cards of each employee
 
-Each Employee Card contains Name of Employee, Company Name the employee is working and a Profile Picture of each employee
+Each Employee Card contains Name of Employee, Company Name the employee is working ,Email,Skills ,Position and a Profile Picture of each employee
 
 Link to the Data Source :- https://niravkpatel28.github.io/json-data-server/employees/employees.json
 

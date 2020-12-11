@@ -108,4 +108,8 @@ h1 {
     text-decoration: none;
     margin-left: 15vw;
   }
+
+  .logo-image {
+    height: 10vh;
+  }
 }
